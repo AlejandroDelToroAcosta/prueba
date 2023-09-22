@@ -21,7 +21,16 @@ public class Barco {
         this.eslora = eslora;
     }
 
+    @Override
+    public String toString() {
+        return "Barco{" +
+                "eslora=" + eslora +
+                ", palos=" + palos +
+                '}';
+    }
+
     public void setPalos(int palos) {
         this.palos = palos;
+
     }
 }
