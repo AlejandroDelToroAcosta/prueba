@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7e9bac7-0252-485e-8099-35c3ea371de5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prueba.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ulpgc/is1/algo/Barco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ulpgc/is1/algo/Main.java" afterDir="false" />
+    <list default="true" id="c7e9bac7-0252-485e-8099-35c3ea371de5" name="Changes" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/src/ulpgc/is1/algo/Barco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ulpgc/is1/algo/Barco.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +48,15 @@
       <option name="presentableId" value="Default" />
       <updated>1695206147795</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1695371841965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695371841965</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,5 +69,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
