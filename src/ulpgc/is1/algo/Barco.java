@@ -17,4 +17,11 @@ public class Barco {
         return palos;
     }
 
+    public void setEslora(int eslora) {
+        this.eslora = eslora;
+    }
+
+    public void setPalos(int palos) {
+        this.palos = palos;
+    }
 }
